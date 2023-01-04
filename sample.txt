@@ -1,3 +1,5 @@
 this is my first sample 
 test for creation of the folder using bash
+Add some lines
+Today is a good day
 
