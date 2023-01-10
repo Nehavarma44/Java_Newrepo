@@ -1,3 +1,5 @@
+//not assignment
+
 public class basicdatatypes{
 
   public static void main(String []args){
