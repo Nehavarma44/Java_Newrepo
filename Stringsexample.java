@@ -1,3 +1,5 @@
+//Not assignment 
+
 import java.util.Scanner;
 
 public class Stringsexample {
