@@ -1,3 +1,5 @@
+//not assignment 
+
 import java.util.Scanner;
 
 public class samplestrings {
