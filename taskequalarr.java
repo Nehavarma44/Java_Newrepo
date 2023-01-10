@@ -1,3 +1,5 @@
+//ASSIGNMENT 7 3rd task
+
 import java.util.Scanner;
 
 public class taskequalarr

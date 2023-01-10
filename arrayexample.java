@@ -1,3 +1,5 @@
+//Assignment 7 2nd task
+
 import java.util.Scanner;
 
 
